@@ -119,9 +119,9 @@ I create digital products where engineering meets imagination.
 
 [![](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://psygiox-dev.vercel.app/)
 
-[![](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SerGioPlay01)
+[![](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PsyGioX)
 
-[![](https://img.shields.io/badge/Telegram-06b6d4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sergioplay)
+[![](https://img.shields.io/badge/Telegram-06b6d4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PsyGioX)
 
 # 🪐 PsyGioX
 
