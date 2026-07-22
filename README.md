@@ -1,38 +1,65 @@
-![](https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:00bfa6,100:7c3aed&amp;text=PsyGioX&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Creator&amp;descAlignY=58)
+![](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:4c1d95,100:06b6d4&text=PsyGioX&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Digital%20Creator&descAlignY=60)
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00E6B8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Frontend+%26+Fullstack+Developer;Cyberpunk+UI%2FUX+Designer;Anime+%26+Tech+Enthusiast;Open+Source+Creator;Building+Digital+Experiences)
+![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Fullstack+Web+Developer;Cyberpunk+UI%2FUX+Designer;Digital+Experience+Creator;Open+Source+Builder;Creating+Modern+Web+Solutions)
 
 # 👨‍💻 About Me
 
-    const PsyGioX = {
+```javascript
+const PsyGioX = {
     role: [
-        "Web Developer",
+        "Fullstack Web Developer",
         "UI/UX Designer",
-        "SMM Manager",
-        "Content Creator"
+        "Digital Creator",
+        "SMM Manager"
     ],
-    
+
     stack: {
-        frontend: ["HTML", "CSS", "JavaScript", "React"],
-        backend: ["Node.js", "PHP"],
-        database: ["MySQL"],
-        tools: ["Linux", "Git", "Figma"]
+        frontend: [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "React",
+            "Vue.js",
+            "Tailwind CSS"
+        ],
+
+        backend: [
+            "PHP",
+            "Laravel",
+            "Node.js"
+        ],
+
+        database: [
+            "MySQL",
+            "PostgreSQL",
+            "SQLite"
+        ],
+
+        tools: [
+            "Linux",
+            "Git",
+            "GitHub",
+            "Figma",
+            "VS Code"
+        ]
     },
+
+    creating: [
+        "Modern Web Applications",
+        "Developer Tools",
+        "UI Design Systems",
+        "Digital Products"
+    ],
 
     interests: [
         "Cyberpunk UI",
-        "Anime",
+        "Glassmorphism",
+        "Anime Culture",
         "Open Source",
-        "Linux",
         "Creative Coding"
-    ],
-
-    currentlyBuilding: [
-        "Modern Web Interfaces",
-        "Glassmorphism UI Systems"
     ]
-    }
-
+}
+```
 
 # 🌌 Digital Identity
 
@@ -42,25 +69,64 @@
 
 ## Frontend
 
-![](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,tailwind)
 
-## Backend &amp; Database
+## Backend
 
-![](https://skillicons.dev/icons?i=nodejs,php,mysql)
+![](https://skillicons.dev/icons?i=nodejs,php,laravel)
 
-## Tools &amp; Environment
+## Database
 
-![](https://skillicons.dev/icons?i=linux,git,github,vscode,figma)
+![](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
+
+## Tools & Environment
+
+![](https://skillicons.dev/icons?i=linux,git,github,vscode,figma,docker)
+
+# 🚀 Projects
+
+## 🌐 Web Development
+
+Building modern responsive websites, business platforms and custom digital solutions.
+
+## 🎨 UI/UX Design
+
+Creating futuristic interfaces with focus on usability, animation and visual identity.
+
+## ⚙️ Developer Tools
+
+Developing useful web utilities, automation tools and open source experiments.
 
 # 🧠 Philosophy
 
-Code is not just functionality.
-It's atmosphere, emotion and experience.
+Code is more than functionality.
+
+It's a combination of:
+- technology
+- creativity
+- design
+- user experience
+
+I create digital products where engineering meets imagination.
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SerGioPlay01&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SerGioPlay01&theme=tokyonight&hide_border=true)
 
 # 🌐 Connect
 
-[     ![](https://img.shields.io/badge/Portfolio-00bfa6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white) ](https://sergioplay-dev.vercel.app/)
+[![](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://psygiox-dev.vercel.app/)
 
-[     ![](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white) ](https://github.com/SerGioPlay01)
+[![](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SerGioPlay01)
 
-![](https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0f172a,50:00bfa6,100:7c3aed)
+[![](https://img.shields.io/badge/Telegram-06b6d4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sergioplay)
+
+# 🪐 PsyGioX
+
+`Developer • Designer • Creator`
+
+Building digital experiences from imagination to reality.
+
+![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:4c1d95,100:06b6d4)
