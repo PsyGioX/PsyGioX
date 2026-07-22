@@ -111,9 +111,9 @@ I create digital products where engineering meets imagination.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SerGioPlay01&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=PsyGioX&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SerGioPlay01&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PsyGioX&theme=tokyonight&hide_border=true)
 
 # 🌐 Connect
 
