@@ -109,12 +109,6 @@ It's a combination of:
 
 I create digital products where engineering meets imagination.
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=PsyGioX&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=PsyGioX&theme=tokyonight&hide_border=true)
-
 # 🌐 Connect
 
 [![](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://psygiox-dev.vercel.app/)
