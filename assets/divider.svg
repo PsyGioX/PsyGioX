@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8b4d0" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#f8b4d0"/>
+      <stop offset=".5" stop-color="#cdb4f6"/>
+      <stop offset=".8" stop-color="#b5ead7"/>
+      <stop offset="1" stop-color="#b5ead7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 14 Q 25 2 50 14 T 100 14 T 150 14 T 200 14 T 250 14 T 300 14 T 350 14 T 400 14 T 450 14 T 500 14 T 550 14 T 600 14 T 650 14 T 700 14 T 750 14 T 800 14 T 850 14 T 900 14 T 950 14 T 1000 14 T 1050 14 T 1100 14 T 1150 14 T 1200 14"
+        fill="none" stroke="url(#wave)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-110" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g transform="translate(600 14)">
+    <circle r="11" fill="#fdf0f6" stroke="#f8b4d0" stroke-width="2"/>
+    <path d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#f08bb4">
+      <animateTransform attributeName="transform" type="rotate" values="0;90;0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

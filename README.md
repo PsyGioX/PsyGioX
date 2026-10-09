@@ -1,126 +1,175 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:4c1d95,100:06b6d4&text=PsyGioX&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Digital%20Creator&descAlignY=60)
+<div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Fullstack+Web+Developer;Cyberpunk+UI%2FUX+Designer;Digital+Experience+Creator;Open+Source+Builder;Creating+Modern+Web+Solutions)
+<img src="./assets/hero.svg" alt="PsyGioX: fullstack developer, UI/UX designer, digital creator" width="100%"/>
 
-# 👨‍💻 About Me
+<p>
+  <a href="https://psygiox-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-cdb4f6?style=for-the-badge&logo=vercel&logoColor=4a3f6b" alt="Portfolio"/></a>
+  <a href="https://t.me/PsyGioX"><img src="https://img.shields.io/badge/Telegram-f8b4d0?style=for-the-badge&logo=telegram&logoColor=4a3f6b" alt="Telegram"/></a>
+  <a href="https://t.me/spprotech"><img src="https://img.shields.io/badge/@spprotech-b5ead7?style=for-the-badge&logo=telegram&logoColor=4a3f6b" alt="@spprotech"/></a>
+  <a href="https://t.me/PsyGioX_TechVerse"><img src="https://img.shields.io/badge/TechVerse-ffe3a8?style=for-the-badge&logo=telegram&logoColor=4a3f6b" alt="TechVerse"/></a>
+  <img src="https://komarev.com/ghpvc/?username=PsyGioX&style=for-the-badge&color=bcd6f5&label=VISITS" alt="Profile views"/>
+</p>
 
-```javascript
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ☕ About
+
+```ts
 const PsyGioX = {
-    role: [
-        "Fullstack Web Developer",
-        "UI/UX Designer",
-        "Digital Creator",
-        "SMM Manager"
-    ],
-
-    stack: {
-        frontend: [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "React",
-            "Vue.js",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "PHP",
-            "Laravel",
-            "Node.js"
-        ],
-
-        database: [
-            "MySQL",
-            "PostgreSQL",
-            "SQLite"
-        ],
-
-        tools: [
-            "Linux",
-            "Git",
-            "GitHub",
-            "Figma",
-            "VS Code"
-        ]
-    },
-
-    creating: [
-        "Modern Web Applications",
-        "Developer Tools",
-        "UI Design Systems",
-        "Digital Products"
-    ],
-
-    interests: [
-        "Cyberpunk UI",
-        "Glassmorphism",
-        "Anime Culture",
-        "Open Source",
-        "Creative Coding"
-    ]
-}
+  roles:   ["Fullstack Web Developer", "UI/UX Designer", "Digital Creator", "SMM Manager"],
+  studio:  "SP Developer",
+  desk:    "Debian Forky + Wayland",
+  builds:  ["offline-first PWAs", "Vercel-hosted tools", "PHP engines with admin panels", "streamer tools"],
+  writes:  "Russian-language IT/tech channel @spprotech (with @Grachek_2)",
+  vibe:    ["lo-fi", "pastel UI", "glassmorphism", "anime", "open source", "creative coding"],
+  playing: "lofi beats to code to",
+};
 ```
 
-# 🌌 Digital Identity
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+## 🎧 Projects
 
-# ⚡ Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗒️ Local Notes</h3>
+      <p>Fully local, encrypted PWA for notes. Custom rich-text editor, IndexedDB storage, wiki-links between notes, command palette, per-note version history, templates with variables, and import from Notion, Evernote and Google Keep. 12 languages, plus a Capacitor wrapper for mobile.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PWA-cdb4f6?style=flat-square" alt="PWA"/>
+        <img src="https://img.shields.io/badge/IndexedDB-f8b4d0?style=flat-square" alt="IndexedDB"/>
+        <img src="https://img.shields.io/badge/Capacitor-b5ead7?style=flat-square" alt="Capacitor"/>
+        <img src="https://img.shields.io/badge/Tauri_v2-ffe3a8?style=flat-square" alt="Tauri v2"/>
+      </p>
+      <a href="https://github.com/PsyGioX/localnotes"><img src="https://img.shields.io/badge/Repository-e6d5f5?style=flat-square&logo=github&logoColor=4a3f6b" alt="Repository"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦊 KitsuneWatch</h3>
+      <p>Free anime streaming site as a vanilla JS single-page app with no framework. Vercel serverless functions proxy the Kodik API, so the token never reaches the browser. Search, top lists, release years and a calendar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vanilla_JS-ffe3a8?style=flat-square&logo=javascript&logoColor=4a3f6b" alt="Vanilla JS"/>
+        <img src="https://img.shields.io/badge/Vercel_Functions-cdb4f6?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Vercel Functions"/>
+        <img src="https://img.shields.io/badge/Kodik_API-f8b4d0?style=flat-square" alt="Kodik API"/>
+      </p>
+      <a href="https://kitsunewatch.vercel.app"><img src="https://img.shields.io/badge/Live-b5ead7?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Live"/></a>
+      <a href="https://github.com/PsyGioX/kitsunewatch"><img src="https://img.shields.io/badge/Repository-e6d5f5?style=flat-square&logo=github&logoColor=4a3f6b" alt="Repository"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎰 Random Challenge Hub</h3>
+      <p>Roulette of gaming challenges for streamers. Five roulette modes, a donation auction (Streamlabs, DonationAlerts, Twitch), an OBS Browser Source overlay, Twitch chat voting and a viewer wheel. Five themes, ten palettes, en/ru/uk. No build step, no dependencies, and all data stays in the browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-f8b4d0?style=flat-square&logo=html5&logoColor=4a3f6b" alt="HTML CSS JS"/>
+        <img src="https://img.shields.io/badge/OBS_overlay-cdb4f6?style=flat-square&logo=obsstudio&logoColor=4a3f6b" alt="OBS overlay"/>
+        <img src="https://img.shields.io/badge/Twitch-b5ead7?style=flat-square&logo=twitch&logoColor=4a3f6b" alt="Twitch"/>
+      </p>
+      <a href="https://random-challenge-hub.vercel.app"><img src="https://img.shields.io/badge/Live-b5ead7?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Live"/></a>
+      <a href="https://github.com/PsyGioX/Random-Challenge-Hub"><img src="https://img.shields.io/badge/Repository-e6d5f5?style=flat-square&logo=github&logoColor=4a3f6b" alt="Repository"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📰 Fluent RSS Reader 2.0</h3>
+      <p>Pastel RSS aggregator as an installable PWA. Build-less frontend with a Vercel serverless API on Node 20 ESM. Seven interface languages: ru, en, uk, pl, cs, bg, sr.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PWA-cdb4f6?style=flat-square" alt="PWA"/>
+        <img src="https://img.shields.io/badge/Node_20_ESM-b5ead7?style=flat-square&logo=nodedotjs&logoColor=4a3f6b" alt="Node 20"/>
+        <img src="https://img.shields.io/badge/Vercel-ffe3a8?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Vercel"/>
+      </p>
+      <a href="https://fluent-rss-reader-web.vercel.app"><img src="https://img.shields.io/badge/Live-b5ead7?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Live"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Streamer Card</h3>
+      <p>Business-card website for streamers on PHP and MySQL. Admin panel with bulk actions and modals, Twitch-style info panels on the home page, and the SEO files needed for fast indexing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-cdb4f6?style=flat-square&logo=php&logoColor=4a3f6b" alt="PHP"/>
+        <img src="https://img.shields.io/badge/MySQL-bcd6f5?style=flat-square&logo=mysql&logoColor=4a3f6b" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Admin_panel-f8b4d0?style=flat-square" alt="Admin panel"/>
+      </p>
+      <a href="https://github.com/PsyGioX/streamercardwebsite"><img src="https://img.shields.io/badge/Repository-e6d5f5?style=flat-square&logo=github&logoColor=4a3f6b" alt="Repository"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏙️ CityPortal: «Твой Кореновск»</h3>
+      <p>PHP engine for a city news portal, running as the «Твой Кореновск» site. News with numbered pagination and a "load more" button, plus an admin panel for managing content.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-cdb4f6?style=flat-square&logo=php&logoColor=4a3f6b" alt="PHP"/>
+        <img src="https://img.shields.io/badge/News_engine-ffe3a8?style=flat-square" alt="News engine"/>
+      </p>
+      <a href="https://github.com/PsyGioX/cityportalru"><img src="https://img.shields.io/badge/Repository-e6d5f5?style=flat-square&logo=github&logoColor=4a3f6b" alt="Repository"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 PsyGioX Website</h3>
+      <p>My portfolio and TechVerse blog. Posts and projects are plain Markdown files, with a set of free web tools alongside, including an OGG viewer and a meta-tags and link-preview checker.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Markdown_driven-cdb4f6?style=flat-square" alt="Markdown driven"/>
+        <img src="https://img.shields.io/badge/Web_tools-f8b4d0?style=flat-square" alt="Web tools"/>
+        <img src="https://img.shields.io/badge/Vercel-ffe3a8?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Vercel"/>
+      </p>
+      <a href="https://psygiox-dev.vercel.app/"><img src="https://img.shields.io/badge/Live-b5ead7?style=flat-square&logo=vercel&logoColor=4a3f6b" alt="Live"/></a>
+    </td>
+  </tr>
+</table>
 
-## Frontend
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,tailwind)
+## 📻 Channels
 
-## Backend
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 @spprotech</h3>
+      <p>Russian-language IT and tech channel I run with <a href="https://t.me/Grachek_2">@Grachek_2</a>. News, explainers and developer topics three to four times a week. A Python bot (Claude and BeautifulSoup) drafts posts from article URLs.</p>
+      <a href="https://t.me/spprotech"><img src="https://img.shields.io/badge/Open_channel-bcd6f5?style=flat-square&logo=telegram&logoColor=4a3f6b" alt="Open channel"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪐 PsyGioX TechVerse</h3>
+      <p>The channel that goes with the blog on my site, covering all kinds of topics and not only web development.</p>
+      <a href="https://t.me/PsyGioX_TechVerse"><img src="https://img.shields.io/badge/Open_channel-bcd6f5?style=flat-square&logo=telegram&logoColor=4a3f6b" alt="Open channel"/></a>
+    </td>
+  </tr>
+</table>
 
-![](https://skillicons.dev/icons?i=nodejs,php,laravel)
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## Database
+## 🧺 Stack
 
-![](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind&theme=light" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,py&theme=light" alt="Backend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" alt="Databases"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=debian,git,github,vercel,docker,vscode,figma&theme=light" alt="Tools"/>
+</p>
 
-## Tools & Environment
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-![](https://skillicons.dev/icons?i=linux,git,github,vscode,figma,docker)
+## 🌙 Activity
 
-# 🚀 Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PsyGioX&show_icons=true&bg_color=f5ecff&title_color=8e6bbf&icon_color=f08bb4&text_color=5b4b6e&border_color=e6d5f5&border_radius=16&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyGioX&layout=compact&bg_color=f5ecff&title_color=8e6bbf&text_color=5b4b6e&border_color=e6d5f5&border_radius=16" height="165" alt="Top languages"/>
+</p>
 
-## 🌐 Web Development
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PsyGioX&background=f5ecff&border=e6d5f5&stroke=e6d5f5&border_radius=16&ring=f08bb4&fire=ffb36b&currStreakNum=5b4b6e&sideNums=5b4b6e&currStreakLabel=8e6bbf&sideLabels=7a6a99&dates=7a6a99" alt="Streak"/>
+</p>
 
-Building modern responsive websites, business platforms and custom digital solutions.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsyGioX&bg_color=f5ecff&color=8e6bbf&line=f08bb4&point=5b4b6e&area=true&area_color=ffd6e8&radius=16&hide_border=true" alt="Contribution graph" width="100%"/>
+</p>
 
-## 🎨 UI/UX Design
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PsyGioX/PsyGioX/output/snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/PsyGioX/PsyGioX/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
+  </picture>
+</p>
 
-Creating futuristic interfaces with focus on usability, animation and visual identity.
-
-## ⚙️ Developer Tools
-
-Developing useful web utilities, automation tools and open source experiments.
-
-# 🧠 Philosophy
-
-Code is more than functionality.
-
-It's a combination of:
-- technology
-- creativity
-- design
-- user experience
-
-I create digital products where engineering meets imagination.
-
-# 🌐 Connect
-
-[![](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://psygiox-dev.vercel.app/)
-
-[![](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PsyGioX)
-
-[![](https://img.shields.io/badge/Telegram-06b6d4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PsyGioX)
-
-# 🪐 PsyGioX
-
-`Developer • Designer • Creator`
-
-Building digital experiences from imagination to reality.
-
-![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:4c1d95,100:06b6d4)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:cdb4f6,50:f8b4d0,100:b5ead7" width="100%" alt=""/>
