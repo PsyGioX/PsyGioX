@@ -162,10 +162,6 @@ const PsyGioX = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsyGioX&bg_color=f5ecff&color=8e6bbf&line=f08bb4&point=5b4b6e&area=true&area_color=ffd6e8&radius=16&hide_border=true" alt="Contribution graph" width="100%"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PsyGioX/PsyGioX/output/snake-light.svg"/>
     <img src="https://raw.githubusercontent.com/PsyGioX/PsyGioX/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
