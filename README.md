@@ -153,11 +153,11 @@ const PsyGioX = {
   <img src="https://streak-stats.demolab.com?user=PsyGioX&background=f5ecff&border=e6d5f5&stroke=e6d5f5&border_radius=16&ring=f08bb4&fire=ffb36b&currStreakNum=5b4b6e&sideNums=5b4b6e&currStreakLabel=8e6bbf&sideLabels=7a6a99&dates=7a6a99" alt="Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PsyGioX/PsyGioX/output/snake-light.svg"/>
     <img src="https://raw.githubusercontent.com/PsyGioX/PsyGioX/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
   </picture>
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:cdb4f6,50:f8b4d0,100:b5ead7" width="100%" alt=""/>
