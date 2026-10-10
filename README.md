@@ -91,8 +91,8 @@ const PsyGioX = {
       <a href="https://github.com/PsyGioX/streamercardwebsite"><img src="https://img.shields.io/badge/Repository-e6d5f5?style=flat-square&logo=github&logoColor=4a3f6b" alt="Repository"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏙️ CityPortal: «Твой Кореновск»</h3>
-      <p>PHP engine for a city news portal, running as the «Твой Кореновск» site. News with numbered pagination and a "load more" button, plus an admin panel for managing content.</p>
+      <h3>🏙️ CityPortal</h3>
+      <p>PHP engine for a city news portal. News with numbered pagination and a "load more" button, plus an admin panel for managing content.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-cdb4f6?style=flat-square&logo=php&logoColor=4a3f6b" alt="PHP"/>
         <img src="https://img.shields.io/badge/News_engine-ffe3a8?style=flat-square" alt="News engine"/>
