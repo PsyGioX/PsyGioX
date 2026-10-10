@@ -22,7 +22,6 @@ const PsyGioX = {
   studio:  "SP Developer",
   desk:    "Debian Forky + Wayland",
   builds:  ["offline-first PWAs", "Vercel-hosted tools", "PHP engines with admin panels", "streamer tools"],
-  writes:  "Russian-language IT/tech channel @spprotech (with @Grachek_2)",
   vibe:    ["lo-fi", "pastel UI", "glassmorphism", "anime", "open source", "creative coding"],
   playing: "lofi beats to code to",
 };
@@ -121,12 +120,7 @@ const PsyGioX = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📡 @spprotech</h3>
-      <p>Russian-language IT and tech channel I run with <a href="https://t.me/Grachek_2">@Grachek_2</a>. News, explainers and developer topics three to four times a week. A Python bot (Claude and BeautifulSoup) drafts posts from article URLs.</p>
-      <a href="https://t.me/spprotech"><img src="https://img.shields.io/badge/Open_channel-bcd6f5?style=flat-square&logo=telegram&logoColor=4a3f6b" alt="Open channel"/></a>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🪐 PsyGioX TechVerse</h3>
       <p>The channel that goes with the blog on my site, covering all kinds of topics and not only web development.</p>
       <a href="https://t.me/PsyGioX_TechVerse"><img src="https://img.shields.io/badge/Open_channel-bcd6f5?style=flat-square&logo=telegram&logoColor=4a3f6b" alt="Open channel"/></a>
