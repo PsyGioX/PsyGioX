@@ -5,9 +5,7 @@
 <p>
   <a href="https://psygiox-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-cdb4f6?style=for-the-badge&logo=vercel&logoColor=4a3f6b" alt="Portfolio"/></a>
   <a href="https://t.me/PsyGioX"><img src="https://img.shields.io/badge/Telegram-f8b4d0?style=for-the-badge&logo=telegram&logoColor=4a3f6b" alt="Telegram"/></a>
-  <a href="https://t.me/spprotech"><img src="https://img.shields.io/badge/@spprotech-b5ead7?style=for-the-badge&logo=telegram&logoColor=4a3f6b" alt="@spprotech"/></a>
   <a href="https://t.me/PsyGioX_TechVerse"><img src="https://img.shields.io/badge/TechVerse-ffe3a8?style=for-the-badge&logo=telegram&logoColor=4a3f6b" alt="TechVerse"/></a>
-  <img src="https://komarev.com/ghpvc/?username=PsyGioX&style=for-the-badge&color=bcd6f5&label=VISITS" alt="Profile views"/>
 </p>
 
 </div>
